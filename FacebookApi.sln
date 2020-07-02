@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacebookEventsApi", "FacebookEventsApi\FacebookEventsApi.csproj", "{17180AC2-7F1B-46DF-B313-EBF29C4E01F8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacebookApi", "FacebookApi\FacebookApi.csproj", "{17180AC2-7F1B-46DF-B313-EBF29C4E01F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
