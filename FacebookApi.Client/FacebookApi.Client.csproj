@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackOnBuild>true</PackOnBuild>
+    <Description>Api contract models for Facebook Places Api</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="GeoJSON.Net" Version="1.2.19" />
+  </ItemGroup>
+</Project>
