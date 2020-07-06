@@ -6,6 +6,10 @@
     <Description>Api contract models for Facebook Places Api</Description>
     <PackageProjectUrl>https://dev.azure.com/appmilla/FindAndExplore</PackageProjectUrl>
     <RepositoryUrl>https://pkgs.dev.azure.com/appmilla/FindAndExplore/_packaging/FindAndExplore/nuget/v3/index.json</RepositoryUrl>
+    <PackOnBuild>true</PackOnBuild>
+    <PackageId>FacebookApi.Client</PackageId>
+    <PackageVersion>1.0</PackageVersion>
+    <Authors>Appmilla</Authors>
   </PropertyGroup>
 
   <ItemGroup>
