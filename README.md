@@ -1,5 +1,11 @@
 # FacebookEventApi
 
+GET
+https://apim-find-and-explore.azure-api.net/FacebookApi-Appmilla-dev/Places
+
+GET
+https://apim-find-and-explore.azure-api.net/FacebookApi-Appmilla-dev/Health
+
 
 # Publish Client nuget package
 
